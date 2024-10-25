@@ -11,7 +11,7 @@
 
 <div align='center'>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,py,androidstudio,bash,blender,unity,cs,c,docker,express,figma,firebase,github,git,gradle,java,linux,idea,mongodb,nodejs,npm,postgres,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,py,androidstudio,kotlin,bash,blender,unity,cs,c,docker,express,figma,firebase,github,git,gradle,java,linux,idea,mongodb,nodejs,npm,postgres,postman)](https://skillicons.dev)
   
   <br>
   
@@ -19,9 +19,6 @@
 </div>
 
 <br>
-
-
-
 
 <h3 aligne='left'>📊 Github Stats:</h3>
 <hr>
