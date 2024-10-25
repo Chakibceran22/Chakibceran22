@@ -12,9 +12,12 @@
 <div align='center'>
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,py,androidstudio,bash,blender,unity,cs,c,docker,express,figma,firebase,github,git,gradle,java,linux,idea,mongodb,nodejs,npm,postgres,postman)](https://skillicons.dev)
-
+  
+  <br>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 <br>
 
 
@@ -27,12 +30,15 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chakibceran22&show_icons=true&theme=radical)
 </div>
+<br>
 
 <h3 align="left">💪 Connect with me:</h3>
 <hr>
 
-[![GitHub](https://img.icons8.com/?size=50&id=12599&format=png&color=000000)](https://github.com/Chakibcerna22)
-[![Uppwrok](https://img.icons8.com/?size=50&id=HKdmFbFm7xQV&format=png&color=000000)](https://www.upwork.com/freelancers/~01df93a6e7ff3e589b)
+[![GitHub](https://img.icons8.com/?size=50&id=12599&format=png&color=000000)](https://github.com/Chakibcerna22)&nbsp;
+[![Uppwrok](https://img.icons8.com/?size=50&id=HKdmFbFm7xQV&format=png&color=000000)](https://www.upwork.com/freelancers/~01df93a6e7ff3e589b)&nbsp;
+[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:grabachakib555@gmail.com)&nbsp;
+
 
 
 
