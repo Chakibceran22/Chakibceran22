@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Graba Chakib</h1>
 <hr>
-<h3 align="center">I am a full-stack web developer with a focus on building scalable applications for small to medium-sized businesses. My expertise covers backend development with Node.js and frontend development using React, allowing me to create efficient and dynamic user interfaces. I also leverage 3.js to incorporate 3D elements into web applications, enhancing user engagement with interactive visuals. In addition to web development, I am a mobile developer and 3D artist, bringing cross-platform functionality and creative design to both web and mobile projects.</h3>
+<h3 align="center">I am a full-stack developer / software engineer specializing in building scalable, high-performance applications, ranging from small projects to large, production-ready systems. My core focus is backend engineering with Node.js, where I design efficient APIs, handle complex architectures, and implement robust data workflows. On the frontend, I use React to deliver clean, responsive interfaces when needed.
+
+I am highly proficient with cloud platforms, CI/CD pipelines, testing frameworks, and modern development tools, enabling me to deliver reliable, secure, and maintainable software across the entire stack.</h3>
 
 
 <br>
