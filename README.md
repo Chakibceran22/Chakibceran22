@@ -11,15 +11,13 @@ I am highly proficient with cloud platforms, CI/CD pipelines, testing frameworks
   
   <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chakibceran22&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Chakibceran22&layout=donut&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats-fast)</div>
 <br>
 <h3 align="left">📊 Github Stats:</h3>
 <hr>
 <div align='center'>
   
-  ![Chakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chakibceran22&show_icons=true&theme=radical)
-</div>
+![Chakib's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Chakibceran22&show_icons=true&theme=radical)</div>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chakibceran22/Chakibceran22/output/github-snake-dark.svg" />
@@ -28,6 +26,7 @@ I am highly proficient with cloud platforms, CI/CD pipelines, testing frameworks
 </picture>
 <h3 align="left">💪 Connect with me:</h3>
 <hr>
+
 [![GitHub](https://img.icons8.com/?size=50&id=12599&format=png&color=000000)](https://github.com/Chakibcerna22)&nbsp;
 [![Upwork](https://img.icons8.com/?size=50&id=HKdmFbFm7xQV&format=png&color=000000)](https://www.upwork.com/freelancers/~01df93a6e7ff3e589b)&nbsp;
 [![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:grabachakib555@gmail.com)&nbsp;
