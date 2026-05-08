@@ -7,7 +7,7 @@ I am highly proficient with cloud platforms, CI/CD pipelines, testing frameworks
 <hr>
 <div align='center'>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,py,blender,c,docker,express,firebase,git,gradle,java,linux,mongodb,nodejs,postgres)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,tailwind,py,blender,c,docker,express,firebase,git,gradle,java,linux,mongodb,nodejs,postgres)](https://skillicons.dev)
   
   <br>
   
